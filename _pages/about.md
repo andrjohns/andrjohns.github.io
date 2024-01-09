@@ -20,7 +20,7 @@ I primarily work in our C++ auto-differentiation library, adding and optimising 
 
   - [Stan Math](https://github.com/stan-dev/math/)
 
-I'm also one of the primary main developers for our R interfaces:
+I'm also one of the primary developers for our R interfaces:
 
  - [rstan](https://cran.r-project.org/web/packages/rstan/)
  - [cmdstanr](https://github.com/stan-dev/cmdstanr)
